@@ -92,7 +92,8 @@ body{
 }
 
 .parametro-senha__botao{
-
+    background-color: var(--fundo-texto);
+    color: var(--branco);
 }
 .parametro-senha__texto{
 
